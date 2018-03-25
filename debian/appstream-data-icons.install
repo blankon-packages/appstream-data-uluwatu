@@ -1,3 +1,3 @@
-uluwatu-data/icons/main/* usr/share/app-info/icons/blankon-uluwatu-main/
-uluwatu-data/icons/extras/* usr/share/app-info/icons/blankon-uluwatu-extras/
-uluwatu-data/icons/restricted/* usr/share/app-info/icons/blankon-uluwatu-restricted/
+uluwatu-data/icons/blankon-uluwatu-main/* usr/share/app-info/icons/blankon-uluwatu-main/
+uluwatu-data/icons/blankon-uluwatu-extras/* usr/share/app-info/icons/blankon-uluwatu-extras/
+uluwatu-data/icons/blankon-uluwatu-restricted/* usr/share/app-info/icons/blankon-uluwatu-restricted/
