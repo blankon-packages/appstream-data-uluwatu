@@ -1,0 +1,60 @@
+appstream-data (2018-03-24) uluwatu; urgency=medium
+
+  * Rename dir to proper pattern
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 25 Mar 2018 14:00:03 +0800
+
+appstream-data (2018-03-23) uluwatu; urgency=medium
+
+  * Uluwatu appstream-data
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sat, 24 Mar 2018 22:46:58 +0800
+
+appstream-data (2016.06.30+1) uluwatu; urgency=medium
+
+  * Upload to uluwatu.
+  * 
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Fri, 12 May 2017 18:12:09 +0700
+
+appstream-data (2016.06.30) tambora; urgency=medium
+
+  * Add another components
+
+ -- dotovr <dotovr@preko>  Thu, 30 Jun 2016 13:32:39 +0700
+
+appstream-data (2016.06.29) tambora; urgency=medium
+
+  * Relocated install icons 
+
+ -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 10:03:20 +0700
+
+appstream-data (2016.06.28) tambora; urgency=medium
+
+  * Initial release for tambora
+
+ -- dotovr <dotovr@preko>  Tue, 28 Jun 2016 22:21:53 +0700
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

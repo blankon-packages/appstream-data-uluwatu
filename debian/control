@@ -1,0 +1,44 @@
+Source: appstream-data
+Section: misc
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+
+Package: appstream-data
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: appstream-data-icons
+Description: AppStream data for BlankOn
+ This package contains metadata used by component-aware software
+ installers and software-centers (such as GNOME-Software, Apper and
+ KDE Discover) to display extended information about the software
+ available for BlankOn.
+ .
+ This package contains the DEP-11 metadata.
+
+Package: appstream-data-icons
+Architecture: all
+Depends: appstream-data,
+         ${misc:Depends}
+Suggests: appstream-data-icons-hidpi
+Description: Icons for AppStream data in BlankOn
+ This package contains metadata used by component-aware software
+ installers and software-centers (such as GNOME-Software, Apper and
+ KDE Discover) to display extended information about the software
+ available for BlankOn.
+ .
+ This package contains the icons accompanying the DEP-11 metadata.
+
+Package: appstream-data-icons-hidpi
+Architecture: all
+Depends: appstream-data-icons,
+         ${misc:Depends}
+Description: HiDPI icons for AppStream data in BlankOn
+ This package contains metadata used by component-aware software
+ installers and software-centers (such as GNOME-Software, Apper and
+ KDE Discover) to display extended information about the software
+ available for BlankOn.
+ .
+ This package contains application icons suitable for HiDPI displays,
+ which complement the existing icons.
